@@ -7,6 +7,9 @@ mindmap
       Creation
       Maintenance
       Releasing
+        Changelog
+        Release process
+        Backporting
       Plugins
     id[Tools]
       crs-toolchain
@@ -23,11 +26,13 @@ mindmap
       Slack
       GH Issues
       StackOverflow
+	  X/Twitter
     id[Testing]
       Rules Testing
       Testing Schema
       Quantitative
       Performance
+	  DoS testing
     id[Infrastructure]
       Updates (renovatebot)
       GitHub Actions
@@ -42,9 +47,14 @@ mindmap
         OpenResty Frontend
         Challenges
         Docker Compose
+    id[Security]
+      Security tracker
+      Triaging reports
     id[Project]
-      Monthly meetings
+      2 Monthly meetings
       Developer Engagement
+      Meeting archive
+	  Reimbursements
     id[Documentation]
       Website Blogs (coreruleset.org)
       Documentation (coreruleset.org/docs)
@@ -54,9 +64,13 @@ mindmap
       Engines
       OWASP Projects
       OWASP HQ
+    id[Public Relations]
+	  Blog Posts
+	  Social Media
     id[Retreat]
       Projects
       Knowledge Transfer
+      Team Activities
     id[Research]
       CVEs (Seaweed)
       Status Page
